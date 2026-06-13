@@ -23,6 +23,7 @@ function rectangleArea(l, w) {
   return multiply(l, w);
 }
 
+
 function circleArea(r) {
   return multiply(Math.PI, multiply(r, r));
 }
