@@ -122,7 +122,7 @@ The calculator uses a simple three-variable system to track calculations:
 
 - **left**: The first number
 - **operator**: The operation to perform
-- **right**: The second number.
+- **right**: The second number..
 
 After calculation, the result is converted to English words using a sophisticated algorithm that handles:
 
