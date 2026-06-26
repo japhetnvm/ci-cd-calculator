@@ -7,13 +7,13 @@ Converts numerical results into complete English sentences
 Makes calculations more accessible and easier to understand
 Useful for learning, accessibility, and clarity
 
-Core Mathematical Operations
+Core Mathematical Operations..ooo
 
 Addition, subtraction, multiplication, and division
 Support for decimal numbers and negative values
 Handles standard order of operations
 
-User Experience
+
 
 Clean, intuitive interface with clearly labeled buttons
 Real-time display showing both the calculation and English description
@@ -120,9 +120,9 @@ VUNA-Calc/
 
 The calculator uses a simple three-variable system to track calculations:
 
-- **left**: The first number
+- **left**: The first number.
 - **operator**: The operation to perform
-- **right**: The second number
+- **right**: The second number.
 
 After calculation, the result is converted to English words using a sophisticated algorithm that handles:
 
