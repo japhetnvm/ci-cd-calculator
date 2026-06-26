@@ -120,7 +120,7 @@ VUNA-Calc/
 
 The calculator uses a simple three-variable system to track calculations:
 
-- **left**: The first number.
+- **left**: The first number
 - **operator**: The operation to perform
 - **right**: The second number.
 
